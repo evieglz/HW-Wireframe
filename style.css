@@ -27,10 +27,6 @@ body {
     box-sizing: border-box;
 }
 
-section {
-   width: 495px; 
-}
-
 #nav {
     padding: 20px;
     margin-bottom: 20px;
@@ -98,11 +94,6 @@ section {
     height: 300px;
    float: left;
     left: 150px;
-   
-    
-    
-    
-    
 }
 
 
